@@ -1,0 +1,1 @@
+![Architecture Diagram](weatherdashboardApp.drawio.png)
